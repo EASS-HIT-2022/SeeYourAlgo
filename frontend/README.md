@@ -50,7 +50,7 @@ We will then get the results window, if we want, we can run again but with diffe
 
 
 
-https://user-images.githubusercontent.com/48864890/170278245-89363e7a-373a-4265-9f9f-6227b72fe86f.mp4
+You can find the video in the SeeYourAlgo Repo - link to ypu tube
 
 
 
