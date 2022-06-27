@@ -43,6 +43,14 @@ docker-compose build
 docker-compose up
 
 ```
--bash: docker-compose build
--bash: docker-compose up
+The mongo image im taking directly from the docker hub, this is how the dosker compose look like:
+![image](https://user-images.githubusercontent.com/48864890/176031372-59dcf302-22a8-42a5-abd0-fb3086252785.png)
+
+
+
+
+## so...
+## Many thanks to everyone who watched the project!
+## If you have discovered one mistake or another, or you just have one question or another, please write to me.
+## Good luck to everyone.
 
