@@ -37,6 +37,12 @@ So basically what did we have in the third part?
 # To run the project you need to download the code on your linux or wsl
 1. You need docker
 2. Then run:
+```bash
+
+docker-compose build
+docker-compose up
+
+```
 -bash: docker-compose build
 -bash: docker-compose up
 
