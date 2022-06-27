@@ -130,7 +130,7 @@ You can add a record to the result as follows:
 ![image](https://user-images.githubusercontent.com/48864890/165379569-c728df56-572c-4880-88e4-3b21604a588b.png)
 
 It is very simple and very convenient, especially with the relevant luxuries that Python offers (motor.motor_asyncio \ pymongo)
-![image](https://user-images.githubusercontent.com/48864890/165382008-c68bed29-c7e1-4557-989c-6eae17e02567.png)
+
 
 
 ## To make it easier for the user I opened with my user (with the user and password) the access to all the IP addresses so all you need is MONGO installed on the computer so you can use the program, so, do not change anything for running the project
