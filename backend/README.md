@@ -140,7 +140,7 @@ In the future (if you want it locally, and in your DB)
 For the DB connection, note that you are setting up your own connection, and actually changing this line before you run the project.
 You need to install Mongodb on your computer, log in to the site and make a connection accordingly.
 --
-![image](https://user-images.githubusercontent.com/48864890/165386675-f3014b32-c8c2-4321-a0f9-fa62fbc9bd5a.png)
+---- connction string to ypur db ---- 
 
 
 
