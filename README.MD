@@ -12,7 +12,7 @@ In these directories that are in this repo, each of the parts has its own readme
 ### So first of all, before I start explaining about the project and especially about the third part, I made a short video that is on YouTube and from here you can get an impression of the project and see its actual lectures.
 
 Link:
-[<img src="" width="50%">](https://www.youtube.com/watch?v=r1Ja5Uq9qzM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=r1Ja5Uq9qzM)
 
 https://www.youtube.com/watch?v=r1Ja5Uq9qzM
 
